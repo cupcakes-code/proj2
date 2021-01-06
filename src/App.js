@@ -46,7 +46,8 @@ function App() {
     <div className="App">
       
       <header>
-        <h1> To do list stop being lazy </h1>
+        <h1> TO Do List </h1>
+        <h6>Add Goals</h6>
       </header>
       <Form 
       inputText={inputText}
